@@ -3,10 +3,11 @@ Devised a program for an ongoing kaggle competition to find relationships betwee
 
 # Steps to implement the code
 
-* Import the notebook in kaggle
+* Import the 'xlm_roberta' notebook in kaggle notebooks.
 * load the data using an ongoing competition contradictory my dear watson. 
 * Run the Notebook 
-* Make pre-processing and model optimization changes according to your need
+* Make pre-processing and model optimization changes according to your intuition.
+* make oredictions on the test data 
 
 # Data Visualization
 
